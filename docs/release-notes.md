@@ -2,8 +2,30 @@
 
 ## Latest Changes
 
+## 0.0.19
+
+### Fixes
+
+* 🐛 Fix pydantic `EmailStr` support and `max_length` in several String subclasses. PR [#966](https://github.com/tiangolo/sqlmodel/pull/966) by [@estebanx64](https://github.com/estebanx64).
+* 🐛 Fix set varchar limit when `max_length` is set on Pydantic models using Pydantic v2. PR [#963](https://github.com/tiangolo/sqlmodel/pull/963) by [@estebanx64](https://github.com/estebanx64).
+
+### Refactors
+
+* ♻️ Refactor generate select template to isolate templated code to the minimum. PR [#967](https://github.com/tiangolo/sqlmodel/pull/967) by [@tiangolo](https://github.com/tiangolo).
+
+### Upgrades
+
+* ⬆️ Update minimum SQLAlchemy version to 2.0.14 as that one includes `TryCast` used internally. PR [#964](https://github.com/tiangolo/sqlmodel/pull/964) by [@tiangolo](https://github.com/tiangolo).
+
+### Docs
+
+* ✏️ Fix broken link to `@dataclass_transform` (now PEP 681) in `docs/features.md`. PR [#753](https://github.com/tiangolo/sqlmodel/pull/753) by [@soof-golan](https://github.com/soof-golan).
+
 ### Internal
 
+* ⬆️ Upgrade Ruff and Black. PR [#968](https://github.com/tiangolo/sqlmodel/pull/968) by [@tiangolo](https://github.com/tiangolo).
+* ⬆ Bump tiangolo/issue-manager from 0.4.1 to 0.5.0. PR [#922](https://github.com/tiangolo/sqlmodel/pull/922) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* 📌 Pin typing-extensions in tests for compatiblity with Python 3.8, dirty-equals, Pydantic. PR [#965](https://github.com/tiangolo/sqlmodel/pull/965) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update GitHub Actions to download and upload artifacts. PR [#936](https://github.com/tiangolo/sqlmodel/pull/936) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Tweak CI for test-redistribute, add needed env vars for slim. PR [#929](https://github.com/tiangolo/sqlmodel/pull/929) by [@tiangolo](https://github.com/tiangolo).
 
