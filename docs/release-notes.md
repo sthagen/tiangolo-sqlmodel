@@ -19,6 +19,10 @@
 
 ### Internal
 
+* ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#1418](https://github.com/fastapi/sqlmodel/pull/1418) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
+* ⬆ Bump pillow from 11.2.1 to 11.3.0. PR [#1423](https://github.com/fastapi/sqlmodel/pull/1423) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump mkdocs-material from 9.6.14 to 9.6.15. PR [#1424](https://github.com/fastapi/sqlmodel/pull/1424) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ruff from 0.12.0 to 0.12.2. PR [#1425](https://github.com/fastapi/sqlmodel/pull/1425) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#1374](https://github.com/fastapi/sqlmodel/pull/1374) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
 * ⬆ Bump ruff from 0.11.13 to 0.12.0. PR [#1403](https://github.com/fastapi/sqlmodel/pull/1403) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ✅ Simplify tests for `tests/test_tutorial/test_code_structure/test_tutorial001.py`, one test file for multiple variants. PR [#1408](https://github.com/fastapi/sqlmodel/pull/1408) by [@tiangolo](https://github.com/tiangolo).
