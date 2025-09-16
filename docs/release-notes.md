@@ -20,6 +20,12 @@
 
 ### Internal
 
+* ⬆ Bump griffe-typingdoc from 0.2.8 to 0.2.9. PR [#1553](https://github.com/fastapi/sqlmodel/pull/1553) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump mkdocs-material from 9.6.17 to 9.6.20. PR [#1565](https://github.com/fastapi/sqlmodel/pull/1565) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump actions/setup-python from 5 to 6. PR [#1551](https://github.com/fastapi/sqlmodel/pull/1551) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ruff from 0.12.12 to 0.13.0. PR [#1559](https://github.com/fastapi/sqlmodel/pull/1559) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#1564](https://github.com/fastapi/sqlmodel/pull/1564) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
+* ⬆ Bump actions/labeler from 5 to 6. PR [#1549](https://github.com/fastapi/sqlmodel/pull/1549) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#1556](https://github.com/fastapi/sqlmodel/pull/1556) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
 * ⬆ Bump typer from 0.17.3 to 0.17.4. PR [#1554](https://github.com/fastapi/sqlmodel/pull/1554) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#1546](https://github.com/fastapi/sqlmodel/pull/1546) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
