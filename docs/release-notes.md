@@ -2,12 +2,26 @@
 
 ## Latest Changes
 
+## 0.0.27
+
+### Upgrades
+
+* ⬆️ Add support for Python 3.14. PR [#1578](https://github.com/fastapi/sqlmodel/pull/1578) by [@svlandeg](https://github.com/svlandeg).
+
+## 0.0.26
+
+### Fixes
+
+* 🐛 Fix attribute handling in `model_dump` for compatibility with the latest Pydantic versions. PR [#1595](https://github.com/fastapi/sqlmodel/pull/1595) by [@spazm](https://github.com/spazm).
+
 ### Docs
 
 * 📝 Fix typo in `docs/tutorial/fastapi/simple-hero-api.md`. PR [#1583](https://github.com/fastapi/sqlmodel/pull/1583) by [@kofi-kusi](https://github.com/kofi-kusi).
 
 ### Internal
 
+* ⬆ Bump mypy from 1.4.1 to 1.18.2. PR [#1560](https://github.com/fastapi/sqlmodel/pull/1560) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ✅ Add test that runs select with 3 or 4 arguments. PR [#1590](https://github.com/fastapi/sqlmodel/pull/1590) by [@svlandeg](https://github.com/svlandeg).
 * ⬆ Bump mkdocs-macros-plugin from 1.3.9 to 1.4.0. PR [#1581](https://github.com/fastapi/sqlmodel/pull/1581) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump mkdocs-material from 9.6.20 to 9.6.21. PR [#1588](https://github.com/fastapi/sqlmodel/pull/1588) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#1584](https://github.com/fastapi/sqlmodel/pull/1584) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
