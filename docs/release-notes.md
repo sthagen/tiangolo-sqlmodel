@@ -2,8 +2,21 @@
 
 ## Latest Changes
 
+### Docs
+
+* 📝 Fix small typos in the documentation. PR [#1641](https://github.com/fastapi/sqlmodel/pull/1641) by [@svlandeg](https://github.com/svlandeg).
+
 ### Internal
 
+* ⬆ Bump mkdocs-material from 9.7.2 to 9.7.3. PR [#1782](https://github.com/fastapi/sqlmodel/pull/1782) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump fastapi from 0.132.0 to 0.133.0. PR [#1781](https://github.com/fastapi/sqlmodel/pull/1781) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump sqlalchemy from 2.0.46 to 2.0.47. PR [#1783](https://github.com/fastapi/sqlmodel/pull/1783) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump pytest from 8.4.2 to 9.0.2. PR [#1780](https://github.com/fastapi/sqlmodel/pull/1780) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump mkdocstrings[python] from 0.30.1 to 1.0.3. PR [#1776](https://github.com/fastapi/sqlmodel/pull/1776) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump typer from 0.23.2 to 0.24.1. PR [#1777](https://github.com/fastapi/sqlmodel/pull/1777) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ruff from 0.15.1 to 0.15.2. PR [#1779](https://github.com/fastapi/sqlmodel/pull/1779) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump fastapi from 0.129.0 to 0.132.0. PR [#1778](https://github.com/fastapi/sqlmodel/pull/1778) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Update all dependencies to use `griffelib` instead of `griffe`. PR [#1775](https://github.com/fastapi/sqlmodel/pull/1775) by [@svlandeg](https://github.com/svlandeg).
 * ⬆ Bump mkdocs-material from 9.7.1 to 9.7.2. PR [#1764](https://github.com/fastapi/sqlmodel/pull/1764) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump pillow from 11.3.0 to 12.1.1. PR [#1770](https://github.com/fastapi/sqlmodel/pull/1770) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump pydantic-settings from 2.12.0 to 2.13.1. PR [#1771](https://github.com/fastapi/sqlmodel/pull/1771) by [@dependabot[bot]](https://github.com/apps/dependabot).
