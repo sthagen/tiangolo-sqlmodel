@@ -2,12 +2,20 @@
 
 ## Latest Changes
 
+### Fixes
+
+* 🐛 Fix `tuple_` return type annotation. PR [#1639](https://github.com/fastapi/sqlmodel/pull/1639) by [@kakeruzoku](https://github.com/kakeruzoku).
+
 ### Docs
 
 * 📝 Fix small typos in the documentation. PR [#1641](https://github.com/fastapi/sqlmodel/pull/1641) by [@svlandeg](https://github.com/svlandeg).
 
 ### Internal
 
+* ⬆ Bump sqlalchemy from 2.0.47 to 2.0.48. PR [#1793](https://github.com/fastapi/sqlmodel/pull/1793) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump prek from 0.3.3 to 0.3.4. PR [#1794](https://github.com/fastapi/sqlmodel/pull/1794) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump fastapi from 0.134.0 to 0.135.1. PR [#1795](https://github.com/fastapi/sqlmodel/pull/1795) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump fastapi from 0.133.1 to 0.134.0. PR [#1792](https://github.com/fastapi/sqlmodel/pull/1792) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump ruff from 0.15.2 to 0.15.4. PR [#1790](https://github.com/fastapi/sqlmodel/pull/1790) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/download-artifact from 7 to 8. PR [#1789](https://github.com/fastapi/sqlmodel/pull/1789) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/upload-artifact from 6 to 7. PR [#1788](https://github.com/fastapi/sqlmodel/pull/1788) by [@dependabot[bot]](https://github.com/apps/dependabot).
