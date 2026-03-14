@@ -54,7 +54,7 @@ dev = [
 ]
 docs = [
     "black>=24.1.0",
-    "cairosvg==2.8.2",
+    "cairosvg==2.9.0",
     "griffe-typingdoc >=0.3.0",
     "griffe-warnings-deprecated >=1.1.0",
     "markdown-include-variants==0.0.8",
@@ -84,7 +84,7 @@ tests = [
     "mypy==1.19.1",
     "pre-commit>=2.17.0,<5.0.0",
     "pytest>=7.0.1,<10.0.0",
-    "ruff==0.15.5",
+    "ruff==0.15.6",
     "typing-extensions==4.15.0",
 ]
 
