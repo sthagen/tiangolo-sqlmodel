@@ -4,6 +4,9 @@
 
 ### Internal
 
+* 🔥 Remove outdated `needs_py310` marker from tests. PR [#1852](https://github.com/fastapi/sqlmodel/pull/1852) by [@stickm4n](https://github.com/stickm4n).
+* ⬆ Bump sqlalchemy from 2.0.48 to 2.0.49. PR [#1850](https://github.com/fastapi/sqlmodel/pull/1850) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ty from 0.0.26 to 0.0.28. PR [#1849](https://github.com/fastapi/sqlmodel/pull/1849) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Replace `mypy` with `ty` in precommit. PR [#1806](https://github.com/fastapi/sqlmodel/pull/1806) by [@svlandeg](https://github.com/svlandeg).
 * ⬆ Bump ruff from 0.15.7 to 0.15.9. PR [#1847](https://github.com/fastapi/sqlmodel/pull/1847) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump mypy from 1.19.1 to 1.20.0. PR [#1843](https://github.com/fastapi/sqlmodel/pull/1843) by [@dependabot[bot]](https://github.com/apps/dependabot).
