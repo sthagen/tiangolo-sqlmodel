@@ -4,6 +4,13 @@
 
 ### Internal
 
+* ⬆ Bump cloudflare/wrangler-action from 3.14.1 to 3.15.0. PR [#1868](https://github.com/fastapi/sqlmodel/pull/1868) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ty from 0.0.30 to 0.0.31. PR [#1862](https://github.com/fastapi/sqlmodel/pull/1862) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump actions/cache from 5.0.4 to 5.0.5. PR [#1865](https://github.com/fastapi/sqlmodel/pull/1865) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump actions/upload-artifact from 7.0.0 to 7.0.1. PR [#1867](https://github.com/fastapi/sqlmodel/pull/1867) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump astral-sh/setup-uv from 7.6.0 to 8.1.0. PR [#1866](https://github.com/fastapi/sqlmodel/pull/1866) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump fastapi from 0.135.3 to 0.136.0. PR [#1869](https://github.com/fastapi/sqlmodel/pull/1869) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ruff from 0.15.10 to 0.15.11. PR [#1870](https://github.com/fastapi/sqlmodel/pull/1870) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🔒 Pin GitHub actions by commit SHA. PR [#1840](https://github.com/fastapi/sqlmodel/pull/1840) by [@YuriiMotov](https://github.com/YuriiMotov).
 * ⬆ Bump ty from 0.0.29 to 0.0.30. PR [#1861](https://github.com/fastapi/sqlmodel/pull/1861) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump prek from 0.3.8 to 0.3.9. PR [#1859](https://github.com/fastapi/sqlmodel/pull/1859) by [@dependabot[bot]](https://github.com/apps/dependabot).
