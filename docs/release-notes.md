@@ -4,6 +4,8 @@
 
 ### Docs
 
+* 📝 Update and simplify docs about help and management. PR [#1978](https://github.com/fastapi/sqlmodel/pull/1978) by [@tiangolo](https://github.com/tiangolo).
+* 📝 Update docs about contributing, reference central docs. PR [#1975](https://github.com/fastapi/sqlmodel/pull/1975) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Update security policy. PR [#1973](https://github.com/fastapi/sqlmodel/pull/1973) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Update link syntax to minimal Markdown. PR [#1800](https://github.com/fastapi/sqlmodel/pull/1800) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Update admonitions, simplify and use defaults. PR [#1915](https://github.com/fastapi/sqlmodel/pull/1915) by [@tiangolo](https://github.com/tiangolo).
@@ -11,6 +13,10 @@
 
 ### Internal
 
+* ⬆ Bump the github-actions group with 2 updates. PR [#1983](https://github.com/fastapi/sqlmodel/pull/1983) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* 👷 Configure Dependabot to group updates and update weekly. PR [#1972](https://github.com/fastapi/sqlmodel/pull/1972) by [@YuriiMotov](https://github.com/YuriiMotov).
+* 🔥 Remove config files now in central GitHub repo. PR [#1979](https://github.com/fastapi/sqlmodel/pull/1979) by [@tiangolo](https://github.com/tiangolo).
+* ⬆ Bump zizmorcore/zizmor-action from 0.5.3 to 0.5.5. PR [#1974](https://github.com/fastapi/sqlmodel/pull/1974) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Fix branch name in `guard-dependencies.yml`. PR [#1916](https://github.com/fastapi/sqlmodel/pull/1916) by [@svlandeg](https://github.com/svlandeg).
 * ♻️ Migrate docs to Zensical. PR [#1913](https://github.com/fastapi/sqlmodel/pull/1913) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump ruff from 0.15.12 to 0.15.13. PR [#1910](https://github.com/fastapi/sqlmodel/pull/1910) by [@dependabot[bot]](https://github.com/apps/dependabot).
