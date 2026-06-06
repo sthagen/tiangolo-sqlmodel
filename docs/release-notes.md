@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Fixes
+
+* 🐛 Fix type of `__sqlmodel_relationships__`. PR [#1996](https://github.com/fastapi/sqlmodel/pull/1996) by [@svlandeg](https://github.com/svlandeg).
+
 ### Docs
 
 * 📝 Update and simplify docs about help and management. PR [#1978](https://github.com/fastapi/sqlmodel/pull/1978) by [@tiangolo](https://github.com/tiangolo).
@@ -13,6 +17,7 @@
 
 ### Internal
 
+* ⬆ Bump the python-packages group across 1 directory with 9 updates. PR [#1995](https://github.com/fastapi/sqlmodel/pull/1995) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump eps1lon/actions-label-merge-conflict from 3.0.3 to 3.1.0 in the github-actions group. PR [#1993](https://github.com/fastapi/sqlmodel/pull/1993) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Bump Pydantic to 2.13.4. PR [#1985](https://github.com/fastapi/sqlmodel/pull/1985) by [@YuriiMotov](https://github.com/YuriiMotov).
 * 👷 Automate release preparation. PR [#1988](https://github.com/fastapi/sqlmodel/pull/1988) by [@tiangolo](https://github.com/tiangolo).
