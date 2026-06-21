@@ -8,6 +8,7 @@
 
 ### Docs
 
+* 📝 Update docs badges: remove Publish badge, it doesn't give extra information. PR [#2009](https://github.com/fastapi/sqlmodel/pull/2009) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Update and simplify docs about help and management. PR [#1978](https://github.com/fastapi/sqlmodel/pull/1978) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Update docs about contributing, reference central docs. PR [#1975](https://github.com/fastapi/sqlmodel/pull/1975) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Update security policy. PR [#1973](https://github.com/fastapi/sqlmodel/pull/1973) by [@tiangolo](https://github.com/tiangolo).
@@ -17,6 +18,7 @@
 
 ### Internal
 
+* 👷 Fix alls-green test dependency. PR [#2008](https://github.com/fastapi/sqlmodel/pull/2008) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump the python-packages group with 5 updates. PR [#2006](https://github.com/fastapi/sqlmodel/pull/2006) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump https://github.com/crate-ci/typos from v1.47.1 to v1.47.2 in the pre-commit group. PR [#2005](https://github.com/fastapi/sqlmodel/pull/2005) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump astral-sh/setup-uv from 8.1.0 to 8.2.0 in the github-actions group. PR [#2004](https://github.com/fastapi/sqlmodel/pull/2004) by [@dependabot[bot]](https://github.com/apps/dependabot).
