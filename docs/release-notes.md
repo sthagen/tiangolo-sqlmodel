@@ -2,8 +2,19 @@
 
 ## Latest Changes
 
+### Docs
+
+* 📝 Add Library Skills documentation. PR [#2052](https://github.com/fastapi/sqlmodel/pull/2052) by [@tiangolo](https://github.com/tiangolo).
+* 📝 Recommend uv projects by default in docs. PR [#2050](https://github.com/fastapi/sqlmodel/pull/2050) by [@tiangolo](https://github.com/tiangolo).
+* 🐛 Prevent Termynal controls from scrolling. PR [#2051](https://github.com/fastapi/sqlmodel/pull/2051) by [@tiangolo](https://github.com/tiangolo).
+* 📝 Update help docs. PR [#2049](https://github.com/fastapi/sqlmodel/pull/2049) by [@tiangolo](https://github.com/tiangolo).
+
 ### Internal
 
+* ⬆ Bump the python-packages group across 1 directory with 6 updates. PR [#2042](https://github.com/fastapi/sqlmodel/pull/2042) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump the github-actions group across 1 directory with 4 updates. PR [#2045](https://github.com/fastapi/sqlmodel/pull/2045) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* 👷 Add GH workflow to bump pre-commit hook versions. PR [#2026](https://github.com/fastapi/sqlmodel/pull/2026) by [@YuriiMotov](https://github.com/YuriiMotov).
+* 🔧 Set Dependabot schedule interval to "monthly". PR [#2025](https://github.com/fastapi/sqlmodel/pull/2025) by [@YuriiMotov](https://github.com/YuriiMotov).
 * ⬆ Bump the python-packages group with 4 updates. PR [#2039](https://github.com/fastapi/sqlmodel/pull/2039) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump https://github.com/crate-ci/typos from v1.47.2 to 1.48.0 in the pre-commit group. PR [#2038](https://github.com/fastapi/sqlmodel/pull/2038) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Fix latest-changes checkout target. PR [#2031](https://github.com/fastapi/sqlmodel/pull/2031) by [@tiangolo](https://github.com/tiangolo).
