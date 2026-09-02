@@ -2,8 +2,31 @@
 
 ## Latest Changes
 
+### Internal
+
+* ⬆ Bump sqlalchemy from 2.0.51 to 2.0.52. PR [#2086](https://github.com/fastapi/sqlmodel/pull/2086) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump the python-packages group with 9 updates. PR [#2085](https://github.com/fastapi/sqlmodel/pull/2085) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump the github-actions group with 4 updates. PR [#2084](https://github.com/fastapi/sqlmodel/pull/2084) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump pre-commit hooks. PR [#2083](https://github.com/fastapi/sqlmodel/pull/2083) by [@pr-submit[bot]](https://github.com/apps/pr-submit).
+
+## 0.0.42 (2026-08-28)
+
+### Features
+
+* 🏷️ Allow `Discriminator` type for `discriminator` parameter in `Field`. PR [#1729](https://github.com/fastapi/sqlmodel/pull/1729) by [@YuriiMotov](https://github.com/YuriiMotov).
+
+## 0.0.41 (2026-08-28)
+
+### Refactors
+
+* 🗑️ Deprecate `min_items` and `max_items` parameters of `Field`. PR [#1731](https://github.com/fastapi/sqlmodel/pull/1731) by [@YuriiMotov](https://github.com/YuriiMotov).
+
+## 0.0.40 (2026-08-28)
+
 ### Docs
 
+* ✏️ Fix grammar and typos in docs. PR [#2058](https://github.com/fastapi/sqlmodel/pull/2058) by [@YuriiMotov](https://github.com/YuriiMotov).
+* 📝 Fix "Decimals in SQLModel" to reference `Field()` instead of `condecimal()`. PR [#2035](https://github.com/fastapi/sqlmodel/pull/2035) by [@anxkhn](https://github.com/anxkhn).
 * 🐛 Use buttons for Termynal controls. PR [#2063](https://github.com/fastapi/sqlmodel/pull/2063) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Add Library Skills documentation. PR [#2052](https://github.com/fastapi/sqlmodel/pull/2052) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Recommend uv projects by default in docs. PR [#2050](https://github.com/fastapi/sqlmodel/pull/2050) by [@tiangolo](https://github.com/tiangolo).
@@ -12,6 +35,8 @@
 
 ### Internal
 
+* ⬆️ Bump Typer min version to `0.26.1`. PR [#2078](https://github.com/fastapi/sqlmodel/pull/2078) by [@YuriiMotov](https://github.com/YuriiMotov).
+* ⬆️ Bump `setup-uv` action to `10.0.1`. PR [#2077](https://github.com/fastapi/sqlmodel/pull/2077) by [@YuriiMotov](https://github.com/YuriiMotov).
 * 👷 Migrate automatic labels to Latest Changes. PR [#2074](https://github.com/fastapi/sqlmodel/pull/2074) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Remove legacy label check. PR [#2072](https://github.com/fastapi/sqlmodel/pull/2072) by [@tiangolo](https://github.com/tiangolo).
 * 🔐 Use PR Submit for pull requests. PR [#2071](https://github.com/fastapi/sqlmodel/pull/2071) by [@tiangolo](https://github.com/tiangolo).
