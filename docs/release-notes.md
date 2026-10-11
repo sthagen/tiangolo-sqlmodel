@@ -2,6 +2,24 @@
 
 ## Latest Changes
 
+## 0.0.48 (2026-10-06)
+
+### Features
+
+* ✨ Add support for SQLAlchemy 2.1. PR [#2112](https://github.com/fastapi/sqlmodel/pull/2112) by [@tiangolo](https://github.com/tiangolo).
+
+### Internal
+
+* ⬆ Bump the python-packages group across 1 directory with 8 updates. PR [#2110](https://github.com/fastapi/sqlmodel/pull/2110) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump the github-actions group with 3 updates. PR [#2109](https://github.com/fastapi/sqlmodel/pull/2109) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump pre-commit hooks. PR [#2108](https://github.com/fastapi/sqlmodel/pull/2108) by [@pr-submit[bot]](https://github.com/apps/pr-submit).
+
+## 0.0.47 (2026-09-23)
+
+### Features
+
+* ✨ Add direct support for PostgreSQL, MySQL, and MariaDB, include in CI tests. PR [#2103](https://github.com/fastapi/sqlmodel/pull/2103) by [@tiangolo](https://github.com/tiangolo).
+
 ## 0.0.46 (2026-09-22)
 
 ### Fixes
